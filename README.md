@@ -1,6 +1,6 @@
 # PassLedger
 PassLedger is an innovative, blockchain password manager with 2FA support
-A collboration between @Ranjan-Kumar-Verma and @CaffineAddic
+A collboration between <a href="https://github.com/Ranjan-Kumar-Verma" target="_blank">@Ranjan-Kumar-Verma</a> and <a href="https://github.com/CaffineAddic" target="_blank">@CaffineAddic</a>
 
 #### How to run this code
 Copy the contents of the tar file into the fabric sample folder which is created when hyperledger fabric is installed.
